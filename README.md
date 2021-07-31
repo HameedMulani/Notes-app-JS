@@ -1,6 +1,7 @@
 # Notes-app-JS
 ## Just for a Begining Practice, Project to practice JavaScript Skills 
-💥 Output Of Project:
+💥 Output Of Project:<br>
+💥 Try Here: https://hameedmulani.github.io/Notes-app-JS/
 ### initial View:
 ![](https://github.com/HameedMulani/Notes-app-JS/blob/master/1%20(154).png)
 ## addNotes:
