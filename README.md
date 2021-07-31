@@ -1,6 +1,6 @@
 # Notes-app-JS
 ## Just for a Begining Practice Project to practice JavaScript Skills 
-## Output Of Project:
+💥 Output Of Project:
 ### initial View:
 ![](https://github.com/HameedMulani/Notes-Making-WebApp-PHP/blob/main/crud_img/1.png)
 ## addNotes:
