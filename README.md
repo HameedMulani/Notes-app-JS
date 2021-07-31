@@ -1,13 +1,13 @@
 # Notes-app-JS
-## Just for a Begining Practice Project to practice JavaScript Skills 
+## Just for a Begining Practice, Project to practice JavaScript Skills 
 💥 Output Of Project:
 ### initial View:
-![](https://github.com/HameedMulani/Notes-Making-WebApp-PHP/blob/main/crud_img/1.png)
+![](https://github.com/HameedMulani/Notes-app-JS/blob/master/1%20(154).png)
 ## addNotes:
-![](https://github.com/HameedMulani/Notes-Making-WebApp-PHP/blob/main/crud_img/addNote2.png)
+![](https://github.com/HameedMulani/Notes-app-JS/blob/master/2(155).png)
 ## Note Inserted:
-![](https://github.com/HameedMulani/Notes-Making-WebApp-PHP/blob/main/crud_img/inserted3.png)
-## Note Updation:
-![](https://github.com/HameedMulani/Notes-Making-WebApp-PHP/blob/main/crud_img/updateModal4.png)
-## Updated Successfully:
-![](https://github.com/HameedMulani/Notes-Making-WebApp-PHP/blob/main/crud_img/updated5.png)
+![](https://github.com/HameedMulani/Notes-app-JS/blob/master/3%20(156).png)
+
+![](https://github.com/HameedMulani/Notes-app-JS/blob/master/4%20(157).png)
+
+![](https://github.com/HameedMulani/Notes-app-JS/blob/master/5%20(158).png)
